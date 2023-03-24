@@ -1,8 +1,8 @@
 Gabriella Picciani - 12
 Gabriel Ortelã - 13
 
-#Tema:drogas
+# Tema:drogas
 
-#Descrição
+# Descrição
 
 Nós vamos falar sobre o problema com as drogas.
